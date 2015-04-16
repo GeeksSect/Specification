@@ -1,0 +1,15 @@
+{
+	"name": "gsspec",
+	"description": "Virtual Machine",
+	"authors": ["HaraldZealot", "krucios", "z4p", "AlexeyKatomachin", "ArtemMeleshko", "alexFrankfurt", "ArtsemenkaUladzimir", "sergei2401"],
+	"homepage": "https://github.com/GeeksSect/Specification",
+	"copyright": "Copyright (c) 2015 Aliaksei Stankevich, Andrei Pazniak, Pavel Radkevich, Alexey Katomachin, Artem Meleshko, Aliaksandr Mitskevich, Artsemenka Uladzimir, Slabadniak Siargey",
+	"configurations":[
+		{
+			"name": "library",
+			"targetType": "sourceLibrary",
+			"targetPath": "build",
+			"workingDirectory": "build"
+		}
+	]
+}
